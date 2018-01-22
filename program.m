@@ -15,6 +15,7 @@ droga=zeros(256,2);
 droga(1,1)=1;
 droga(1,2)=1;
 kierunek=1;
+
 while (1)
     iter=iter+1;
     i=1;%pozycja robota-wiersz
